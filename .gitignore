@@ -5,6 +5,16 @@
 /singular_images
 /lr_search_results
 /runs
+/kfold_lr
+/kfold_lr_0.0001_fold_0
+/kfold_lr_0.0001_fold_1
+/kfold_lr_0.0001_fold_2
+/kfold_lr_1e-05_fold_0
+/kfold_lr_1e-05_fold_1
+/kfold_lr_1e-05_fold_2
+/kfold_lr_5e-05_fold_0
+/kfold_lr_5e-05_fold_1
+/kfold_lr_5e-05_fold_2
 ### CUDA ###
 *.i
 *.ii
