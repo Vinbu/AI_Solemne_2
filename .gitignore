@@ -15,6 +15,9 @@
 /kfold_lr_5e-05_fold_0
 /kfold_lr_5e-05_fold_1
 /kfold_lr_5e-05_fold_2
+
+yolov8n.pt
+yolo11n.pt
 ### CUDA ###
 *.i
 *.ii
