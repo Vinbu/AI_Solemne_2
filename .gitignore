@@ -3,8 +3,8 @@
 /content
 /dataset_yolo
 /singular_images
-/lr_search_results
-/runs
+/results
+/test_results_per_lr
 /kfold_lr
 /kfold_lr_0.0001_fold_0
 /kfold_lr_0.0001_fold_1
