@@ -23,7 +23,7 @@ This will install dependencies listed in pyproyect.toml.
 To get access contact with this repository project administrator.
 Next you will get access to the folder:  
 https://drive.google.com/drive/folders/1fYlchR5h9JAGNJMpDIGHWBPnX7_6bIHl?usp=sharing  
-Download the content and copy the folders "content" and "singular_images" in the project root where you have cloned the repository. 
+Download the content and copy the folders "content" and "singular_images" in the project root where you have cloned the repository.  
 5. Run code
 In the repository root, open using jupyter lab or notebook the solemne_2_notebook.  
 Then you only have to run the cells in descending order, you will notice that you will construct the YOLO folders structure and distribute randomly with a seed the images in content, but there are images also in singular_images folder, this are images that are selected because the particular position that comes the fishes, so we distribute them based on train, test and validations percentages, 75, 15 and 10 percent respectively.
