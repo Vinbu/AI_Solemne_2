@@ -18,7 +18,7 @@ source yolov8-env/bin/activate      # Linux / macOS
 ```bash
 pip install .
 ```
-This will install dependencies listed in pyproyect.toml.
+This will install dependencies listed in pyproyect.toml.  
 4. Download Images and Labels 
 To get access contact with this repository project administrator.
 Next you will get access to the folder:  
