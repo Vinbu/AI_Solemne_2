@@ -3,5 +3,7 @@ val: dataset_yolo/val/images
 test: dataset_yolo/test/images
 
 nc: 2
-names: ['head', 'tail']
+names:
+  0: head
+  1: tail
 
