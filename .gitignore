@@ -1,6 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,git,cuda
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,git,cuda
-/content
+/cont
 /dataset_yolo
 /singular_images
 /best_lr_model
