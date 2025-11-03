@@ -20,9 +20,9 @@ This will install dependencies listed in requirements.txt
 
 
 4. Download Images and Labels 
-Click to get the images and labels used un the project:  
+Click the link to download the dataset used in this project:
 https://drive.google.com/drive/folders/1fYlchR5h9JAGNJMpDIGHWBPnX7_6bIHl?usp=sharing  
-Download the content and copy the folders "content" and "singular_images" in the project root where you have cloned the repository.
+After downloading, copy the folders content and singular_images into the root of the cloned repository.
 
 
 5. Run code
