@@ -1,0 +1,15 @@
+torch==2.8.0
+torchvision==0.23.0
+numpy==1.26.4
+pandas==2.3.3
+pyyaml==6.0.3
+scikit-learn==1.7.2
+matplotlib==3.10.7
+opencv-python-headless==4.11.0.86
+
+# YOLO
+ultralytics==8.3.213
+
+# Jupyter
+jupyterlab==4.3.6
+ipython==9.6.0
